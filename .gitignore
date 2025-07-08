@@ -1,0 +1,19 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore large model files
+model/similarity.pkl
+model/movie_list.pkl
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode config
+.vscode/
+
+# Mac system files
+.DS_Store
