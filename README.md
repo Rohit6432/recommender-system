@@ -1,10 +1,10 @@
-# 🎬 Movie Recommender System
+#  Movie Recommender System
 
 A content-based movie recommendation system built using Python, scikit-learn, and Streamlit. The system suggests movies based on the similarity of their content using TF-IDF vectorization and cosine similarity.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - TF-IDF Vectorization for converting textual features to numerical format
 - Cosine similarity to find and rank similar movies
@@ -13,7 +13,7 @@ A content-based movie recommendation system built using Python, scikit-learn, an
 
 ---
 
-## 📥 Download Model Files
+##  Download Model Files
 
 These files are too large for GitHub. Download them from the links below and place them inside a folder named `model/`:
 
@@ -22,7 +22,7 @@ These files are too large for GitHub. Download them from the links below and pla
 
 ---
 
-## 💻 How to Run the App
+##  How to Run the App
 
 ### 1. Clone the repository
 
